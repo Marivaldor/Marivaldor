@@ -11,9 +11,9 @@ Esse espa√ßo foi criado para compartilharmos nossos conhecimentos sobre progrma√
 - Css
 
 ---
-**Tecnologias abordadas:** *Angular - React - NodeJs - VsCode - Eclipse - NetBeans - GitHub - Power BI - Excel*
+**Tecnologias abordadas:** *Angular - React - NodeJs - Eclipse - NetBeans - GitHub - Power BI - Excel*
 
-**Sistemas Operacionais:** *Debian - Ubuntu - Windows*
+**Sistemas Operacionais:** *Debian - Ubuntu - Windows - VsCode*
 
 **Banco de Dados:** *MySql - Sqlite*
 
